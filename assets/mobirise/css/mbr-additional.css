@@ -1038,7 +1038,14 @@ a {
   }
 }
 .cid-t1n1CP7Joy {
-  background-image: url("../../../assets/images/projekt-bez-tytuu-2000x1125.png");
+  background-image: url("../../../assets/images/projekt-bez-tytuu-1-2000x1125.png");
+}
+.cid-t1n1CP7Joy .mbr-section-title {
+  color: #ffffff;
+}
+.cid-t1n1CP7Joy P {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-t1n1PWxbZV {
   padding-top: 4rem;
@@ -1062,33 +1069,26 @@ a {
 .cid-t1n1PWxbZV .row {
   justify-content: center;
 }
-.cid-t1nazAv9nW {
+.cid-t1z9ypSFHR {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-@media (max-width: 767px) {
-  .cid-t1nazAv9nW .row {
-    flex-direction: column-reverse;
-  }
-  .cid-t1nazAv9nW .mbr-figure {
-    margin-bottom: 1.5rem;
+@media (max-width: 991px) {
+  .cid-t1z9ypSFHR .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-.cid-t1nazAv9nW .row {
-  align-items: center;
+.cid-t1z9ypSFHR .row {
+  flex-direction: row-reverse;
+}
+.cid-t1z9ypSFHR img {
+  width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-t1nazAv9nW .text-wrapper {
-    padding: 0 2rem;
+  .cid-t1z9ypSFHR .text-wrapper {
+    padding: 2rem;
   }
-}
-.cid-t1nazAv9nW .media-content,
-.cid-t1nazAv9nW .mbr-figure {
-  align-self: center;
-}
-.cid-t1nazAv9nW .mbr-figure iframe {
-  width: 100%;
 }
 .cid-t1nc5zBVjV {
   padding-top: 0rem;
